@@ -1,0 +1,23 @@
+<head>
+   <meta charset="UFT-8">
+   <meta name="viewport" content="width=devide=width, initial-scale=1.0">
+   <style>
+      table, th, td {
+      border-collapse: collapse;
+      }
+      th, td {
+      padding: 10px 50px; 
+      }
+      *{	font-family: "Times New Roman", Times, serif; <!--Mudança de letra-->
+      }
+   </style>
+</head>
+th, td {
+border-color: #00008B; <!--Cor da borda-->
+}
+tr:nth-child(even) {  
+background-color: #000080; <!--Cor do fundo-->
+}
+th, td {
+border-style: dotted;  <!--Estilo da borda-->
+}
